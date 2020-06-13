@@ -18,7 +18,7 @@
     "redis": "0.8.1",
     "uglify-js": "3.9.4",
     "busboy": "0.2.4",
-    "pg": "4.1.1",
+    "pg": "4.5.7",
     "memcached": "^2.2.2"
   },
   "devDependencies": {
