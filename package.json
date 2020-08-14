@@ -16,7 +16,7 @@
   "dependencies": {
     "connect-ratelimit": "0.0.7",
     "connect-route": "0.1.5",
-    "connect": "3.4.1",
+    "connect": "3.7.0",
     "st": "1.1.0",
     "winston": "0.6.2",
     "redis-url": "0.1.0",
