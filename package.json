@@ -27,7 +27,7 @@
     "memcached": "^2.2.2"
   },
   "devDependencies": {
-    "mocha": "^4.0.1"
+    "mocha": "^9.0.1"
   },
   "bundledDependencies": [],
   "engines": {
